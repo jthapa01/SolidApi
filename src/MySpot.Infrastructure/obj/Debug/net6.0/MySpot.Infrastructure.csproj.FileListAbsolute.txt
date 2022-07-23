@@ -1,0 +1,17 @@
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Infrastructure.deps.json
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Infrastructure.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Infrastructure.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Application.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Core.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Application.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\bin\Debug\net6.0\MySpot.Core.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.csproj.CopyComplete
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\refint\MySpot.Infrastructure.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\MySpot.Infrastructure.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Infrastructure\obj\Debug\net6.0\ref\MySpot.Infrastructure.dll

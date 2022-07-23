@@ -1,0 +1,6 @@
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\obj\Debug\net6.0\MySpot.Tests.Unit.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\obj\Debug\net6.0\MySpot.Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\obj\Debug\net6.0\MySpot.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\obj\Debug\net6.0\MySpot.Tests.Unit.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\tests\MySpot.Tests.Unit\obj\Debug\net6.0\MySpot.Tests.Unit.csproj.CoreCompileInputs.cache

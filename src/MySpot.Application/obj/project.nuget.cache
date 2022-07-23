@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PeJDyX9idPcTF2DD5tgoo5SgxspFfzCkBaNnynnGjeiLg8SzXCyBogOsWOIPnq4VLuw7Q3LovkQdBON3sATpUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeevanthapa\\Desktop\\DotNetCourses\\SolidApiDevMentor\\MySpot\\src\\MySpot.Application\\MySpot.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\scrutor\\4.2.0\\scrutor.4.2.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

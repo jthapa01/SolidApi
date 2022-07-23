@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUo3rvNXFWYjn91oPNiQ9J5vnzm+KnIFPwnVifIdhiLQrOqhZczYeNYAkph9ZbtZS47Fx1EssIcMhklyu43h0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeevanthapa\\Desktop\\DotNetCourses\\SolidApiDevMentor\\MySpot\\src\\MySpot.Core\\MySpot.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeevanthapa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

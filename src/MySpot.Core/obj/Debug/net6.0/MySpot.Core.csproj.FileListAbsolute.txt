@@ -1,0 +1,12 @@
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\bin\Debug\net6.0\MySpot.Core.deps.json
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\bin\Debug\net6.0\MySpot.Core.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\bin\Debug\net6.0\MySpot.Core.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.csproj.AssemblyReference.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.AssemblyInfoInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.AssemblyInfo.cs
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.csproj.CoreCompileInputs.cache
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\refint\MySpot.Core.dll
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\MySpot.Core.pdb
+C:\Users\jeevanthapa\Desktop\DotNetCourses\SolidApiDevMentor\MySpot\src\MySpot.Core\obj\Debug\net6.0\ref\MySpot.Core.dll
